@@ -1,0 +1,1 @@
+This repository demonstrates a common Lua error: passing a nil value to a function that doesn't handle it gracefully. The `bug.lua` file shows the erroneous code. The `bugSolution.lua` file provides a solution using proper error handling and optional parameters.
